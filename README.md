@@ -5,7 +5,8 @@ It is a simple webserver designed by using flask micro webframework and twitter 
 How to use it ?
 
      Create a directory called 'mywebsite'.
-     Install flask and create virtualenv in the directory 'mywebsite' . Installing flask on ubuntu is here - http://techrootsolns.com/web-design/flask 
+     Install flask and create virtualenv in the directory 'mywebsite' . Installing flask on ubuntu is here -
+     http://techrootsolns.com/web-design/flask 
      Download the contents from this repository and copy into mywebsite folder.
 	
      Start the local webserver by using the below commnad. It starts the server on port 5000
